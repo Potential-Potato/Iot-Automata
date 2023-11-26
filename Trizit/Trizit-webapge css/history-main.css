@@ -1,0 +1,35 @@
+
+
+.main-nav {
+    display: flex;
+    flex: 1;
+    background-color: rgb(177, 139, 139);
+    position: absolute;
+    top: 98px;
+    left: 20px;
+    right: 20px;
+    height: 300px;
+}
+
+.main-p{
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    position: absolute;
+    top: 420px;
+    left: 20px;
+    right: 20px;
+    height: 300px;
+}
+
+.announcement{
+    display: flex;
+    flex: 1;
+    background-color: rgb(68, 49, 135);
+    position: absolute;
+    top: 470px;
+    left: 20px;
+    right: 20px;
+    height: 300px;
+}

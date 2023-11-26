@@ -1,0 +1,45 @@
+.content-div{
+    position: absolute;
+    top: 98px;
+    left: 20px;
+    right: 20px;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    background-color: rgb(177, 139, 139);
+    height: 600px;
+}
+
+
+
+.content-title{
+    color: white;
+    font-size: 35px;
+    margin: 10px 0px 10px 20px;
+}
+
+.content-description{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+
+.contact-info{
+    display: flex;
+    flex-direction: row;
+    font-size: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.email-div {
+
+    color: white;
+}
+
+.email-div ol{
+    list-style-type: none;
+    padding: 0;
+    margin-right: 50px;
+    align-items: start;
+}
